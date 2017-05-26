@@ -10,12 +10,12 @@ module.exports = {
 
     // Auth to set password 
     auth: {
-        user: 'rajeshkumar11cse@gmail.com',
-        pass: 'rajsikar',
+        user: '************@gmail.com',
+        pass: '*******',
     },
 
     // From address to set password 
-    defaultFromAddress: 'Rajesh Kumar rajeshkumar11cse@gmail.com',
+    defaultFromAddress: 'Rajesh Kumar *************',
 
     // Subject of mail
     subject: 'You have an email',
